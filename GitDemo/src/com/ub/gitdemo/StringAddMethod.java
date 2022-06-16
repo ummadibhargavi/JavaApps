@@ -1,6 +1,6 @@
 package com.ub.gitdemo;
 
-public class StringConcate {
+public class StringAddMethod {
 	public static String StringConcate () {
 		String s1="Punith";
 		String s2="Bhargav";
@@ -11,4 +11,5 @@ public class StringConcate {
 		
 	}
 	
+
 }
